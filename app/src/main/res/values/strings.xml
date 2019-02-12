@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CheckIpAddress</string>
+    <string name="eIpadd">Enter IpAddress</string>
+    <string name="ePort">Enter Port Number</string>
+    <string name="b1">Check</string>
+
+</resources>
